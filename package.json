@@ -1,0 +1,12 @@
+{
+  "name": "dashboard-api",
+  "version": "1.0.0",
+  "description": "Dashboard API",
+  "license": "ISC",
+  "author": "Denys Horbachevskyi",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
